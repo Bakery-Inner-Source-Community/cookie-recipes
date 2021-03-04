@@ -7,3 +7,7 @@ the smaller ones, are more than welcome. This includes bug reports, fixes, docum
 But first, read our [Contribution Guide](./CONTRIBUTING.md).
 
 ## Recipes
+
+List of Cookie recipes ready to cook by yourself:
+
+- [Oaty hazelnut cookies](./recipes/Oaty-hazelnut-cookies.md)
