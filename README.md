@@ -12,3 +12,4 @@ List of Cookie recipes ready to cook by yourself:
 
 - [Oaty hazelnut cookies](./recipes/Oaty-hazelnut-cookies.md)
 - [Double choc peanut butter cookies](./recipes/Double-choc-peanut-butter-cookies.md)
+- [Vintage Chocolate Chip cookies](./recipes/Vintage-chocolate-chip-cookies.md)
