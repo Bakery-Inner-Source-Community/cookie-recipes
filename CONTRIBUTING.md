@@ -6,10 +6,10 @@
 
 ## What to contribute
 
-* Fixing typos :bug:
-* Adding more recipes :sparkles: :star:
-* Adding/Updating commands, blocks, texts, ... :pencil2:
-* Whatever you want to add with some value for this project :tada:
+* :bug: Fixing typos
+* :sparkles: :star: Adding more recipes using the [template](./recipes/RECIPE_TEMPLATE.md)
+* :pencil2:Adding/Updating commands, blocks, texts, ...
+* :tada: Whatever you want to add with some value for this project 
 
 ## Code of Conduct
 

@@ -7,4 +7,3 @@ the smaller ones, are more than welcome. This includes bug reports, fixes, docum
 But first, read our [Contribution Guide](./CONTRIBUTING.md).
 
 ## Recipes
-
